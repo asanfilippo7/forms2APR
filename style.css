@@ -10,7 +10,7 @@ body {
 /*  font-weight:700;*/
 /*}*/
 
-.calc-holder .panel-heading, .calc-two-holder .panel-heading {
+.calc-holder .panel-heading {
   background-color:#00314e;
   padding:1.5em;
   color:#fff;
@@ -18,12 +18,12 @@ body {
   font-weight:700;
 }
 
-.calc-holder .panel-heading h4.panel-title i, .calc-two-holder .panel-heading h4.panel-title i {
+.calc-holder .panel-heading h4.panel-title i {
   float:right;
   color:#ea3936;
 } 
 
-.calc-holder .panel-body, .calc-two-holder .panel-body {
+.calc-holder .panel-body {
   color:#021f2b;
 }
 
@@ -40,19 +40,19 @@ i.hide {
 	display:none;
 }
 
-.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-up, .calc-two-holder .panel-group .panel-heading a.collapsed i.fa-caret-up {
+.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-up {
 	display: none;
 }
 
-.calc-holder .panel-group .panel-heading a i.fa-caret-up, .calc-two-holder .panel-group .panel-heading a i.fa-caret-up {
+.calc-holder .panel-group .panel-heading a i.fa-caret-up {
 	display:inline;
 }
 
-.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-down, .calc-two-holder .panel-group .panel-heading a.collapsed i.fa-caret-down {
+.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-down {
 	display: inline;
 }
 
-.calc-holder .panel-group .panel-heading a i.fa-caret-down, .calc-two-holder .panel-group .panel-heading a i.fa-caret-down {
+.calc-holder .panel-group .panel-heading a i.fa-caret-down {
 	display: none;
 }
 
