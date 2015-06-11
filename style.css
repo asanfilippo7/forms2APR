@@ -1,1 +1,62 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*.calc-holder .panel-heading, .calc-two-holder .panel-heading {*/
+/*  padding:1.5em;*/
+/*  background-color:#2597d2;*/
+/*  color:#fff;*/
+/*  text-transform:uppercase;*/
+/*  font-weight:700;*/
+/*}*/
+
+.calc-holder .panel-heading, .calc-two-holder .panel-heading {
+  background-color:#00314e;
+  padding:1.5em;
+  color:#fff;
+  text-transform:uppercase;
+  font-weight:700;
+}
+
+.calc-holder .panel-heading h4.panel-title i, .calc-two-holder .panel-heading h4.panel-title i {
+  float:right;
+  color:#ea3936;
+} 
+
+.calc-holder .panel-body, .calc-two-holder .panel-body {
+  color:#021f2b;
+}
+
+i.fa-check {
+	display:none;
+	color:#fff;
+}
+
+i.fa-check.checked {
+	display:inline;
+}
+
+i.hide {
+	display:none;
+}
+
+.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-up, .calc-two-holder .panel-group .panel-heading a.collapsed i.fa-caret-up {
+	display: none;
+}
+
+.calc-holder .panel-group .panel-heading a i.fa-caret-up, .calc-two-holder .panel-group .panel-heading a i.fa-caret-up {
+	display:inline;
+}
+
+.calc-holder .panel-group .panel-heading a.collapsed i.fa-caret-down, .calc-two-holder .panel-group .panel-heading a.collapsed i.fa-caret-down {
+	display: inline;
+}
+
+.calc-holder .panel-group .panel-heading a i.fa-caret-down, .calc-two-holder .panel-group .panel-heading a i.fa-caret-down {
+	display: none;
+}
+
+.container, .row, .col-md-4 {
+  padding:0em;
+}
 
